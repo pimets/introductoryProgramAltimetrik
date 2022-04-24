@@ -11,3 +11,6 @@ Some important concepts
 VCS: Version Control System 
 Repository: documents at git’s that keep track the project history
 Commit: each one of the changes registered at git’s repository
+
+
+peepepepepepepepeepe
