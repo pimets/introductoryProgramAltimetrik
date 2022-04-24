@@ -1,0 +1,13 @@
+Git
+What is it?
+Git is a version control system, the practice of tracking and managing changes to software code, and serves as a repository of program code. It registers the life of the project written by devs allowing teamwork and collaboration. Keep track of changes and its authority.  Generally DevOps take care of version control.
+
+It’s open sourced developed by Linus Torvalds, the famous creator of the Linux operating system kernel, in 2005. It works seamlessly in a wide variety of operating systems and IDEs (integrated development environments, for example VS). 
+
+➤ Interesting Fact: Linus Torvalds used to work with BitKeeper to control the Dev’s codes in order to develop Linux, in 2005 BitKeeper decided to start billing for its services, something that Linus refuses to pay. How did he manage then? He developed his own version control system, open sourced like Kernel called Git!
+
+Some important concepts
+
+VCS: Version Control System 
+Repository: documents at git’s that keep track the project history
+Commit: each one of the changes registered at git’s repository
