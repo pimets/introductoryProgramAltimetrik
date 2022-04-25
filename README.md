@@ -16,6 +16,7 @@
 * :eye_speech_bubble: https://www.freecodecamp.org/news/git-fetch-vs-pull/#:~:text=git%20fetch%20is%20the%20command,changes%20from%20the%20remote%20repository.
 * :writing_hand: https://www.git-tower.com/learn/git/faq/git-squash
 * :ticket: https://www.perforce.com/blog/vcs/git-rebase-vs-git-merge-which-better#:~:text=Git%20rebase%20and%20merge%20both%20integrate%20changes%20from,merge%20adds%20a%20new%20commit%2C%20preserving%20the%20history.
+* :stopwatch: https://www.ba-cube.com/blog/velocity-user-stories-too-many-teams-are-looking-at-it-wrong/
 
 
 # Downloads
